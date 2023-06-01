@@ -37,6 +37,14 @@
               </Partition>
             </Partitions>
           </MeasureGroup>
+          <MeasureGroup>
+            <ID>Plandaten</ID>
+            <Partitions>
+              <Partition>
+                <ID>Plandaten</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
         </MeasureGroups>
       </Cube>
     </Cubes>
